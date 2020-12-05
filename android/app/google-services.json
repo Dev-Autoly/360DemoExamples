@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609978257117",
+    "firebase_url": "https://demo360viewer.firebaseio.com",
+    "project_id": "demo360viewer",
+    "storage_bucket": "demo360viewer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609978257117:android:017b7bb00b080ffe439534",
+        "android_client_info": {
+          "package_name": "com.autolydemo.demo360viewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609978257117-12ifad8o10nhjeustgiu6fq6k2b4evio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBoKWycjZRqRjJC0Z87YiUGGIgGwIo7CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609978257117-12ifad8o10nhjeustgiu6fq6k2b4evio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
